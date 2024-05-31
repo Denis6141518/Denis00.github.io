@@ -158,7 +158,7 @@ pengalaman kerja dan organisasi</p>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Horizontal Rule</title>
             <p>SMAN 3 KOTA SERANG</p>
-            <img src="https://sman3kotaserang.sch.id/media_library/image_sliders/4b52ce926ca2d2c684ef929416a1cedb.JPG" alt="Gambar Proyek">
+            <img src="https://assets.isu.pub/document-structure/220704165215-2b2c62eab5c172e3e608a529f400de3c/v1/e06652a7c82aca1cd636c075583730b2.jpeg" alt="Gambar Proyek">
 <html lang="en">
 <head>
     <meta charset="UTF-8">
